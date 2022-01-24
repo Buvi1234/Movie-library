@@ -15,10 +15,10 @@ describe('Movie Model',function(){
         console.log(`movie3 name is ${movie3.names()}`)
         console.log(`movie3 name is ${movie4.names()}`)
 
-        expect(movie1.names()).toEqual('Rajvishnu')
-        expect(movie2.names()).toEqual('spider man no way home');
-        expect(movie3.names()).toEqual('Jaggu');
-        expect(movie4.names()).toEqual('Aana');
+        expect(movie1.names()).toEqual('NGK')
+        expect(movie2.names()).toEqual('Batman');
+        expect(movie3.names()).toEqual('Master');
+        expect(movie4.names()).toEqual('pushpa');
 
     }),
 
