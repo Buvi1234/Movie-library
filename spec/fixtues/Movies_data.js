@@ -6,33 +6,28 @@ var FIXTURES = window.FIXTURES || {};
 FIXTURES.movies ={
 
     movie1:{
-        name:"Rajvishnu",
+        name:"NGK",
         rating:"4.5",
         genres:"comedy",
         comment:"very Good"
     },
     movie2:{
-        name:"spider man no way home",
+        name:"batman",
         rating:"4.8",
         genres:"adventure",
         comment:"excelent movie"
     },
     movie3:{
-        name:"Jaggu",
+        name:"Master",
         rating:"4.3",
         genres:"action",
         comment:"Good"
     },
     movie4:{
-        name:"Aana",
+        name:"pushpa",
         rating:"4.5",
         genres:"horror",
         comment:"Good"
     },
-    movie5:{
-        name:"batman",
-        rating:"4.6",
-        geners:"fighting",
-        comment:"Good"
-    }
+   
 }
