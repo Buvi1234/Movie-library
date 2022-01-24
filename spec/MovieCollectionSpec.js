@@ -22,7 +22,7 @@ describe('Movie Collection',function(){
             FIXTURES.movies.movie3,
             FIXTURES.movies.movie4
         ])
-        expect(movies.getMovieNames()).toEqual(['Rajvishnu','spider man no way home','Jaggu','Aana'])
+        expect(movies.getMovieNames()).toEqual(['NGK','Batman','Master','pushpa'])
     }),
 
     it('should have a remote data source',function(){
