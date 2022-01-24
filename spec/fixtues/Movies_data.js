@@ -12,7 +12,7 @@ FIXTURES.movies ={
         comment:"very Good"
     },
     movie2:{
-        name:"batman",
+        name:"Batman",
         rating:"4.8",
         genres:"adventure",
         comment:"excelent movie"
